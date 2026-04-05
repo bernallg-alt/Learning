@@ -1,1 +1,1 @@
-alert("hola mivi");
+alert("Path relativo");
